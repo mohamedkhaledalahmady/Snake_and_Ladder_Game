@@ -23,7 +23,7 @@
 > ### How to install and run code
   * After installing all files, we need also to download `SFML` library you can download from [here](https://www.sfml-dev.org/download.php), and for configure visual         studio IDE with SFML librery from [here](https://www.sfml-dev.org/tutorials/2.5/start-vc.php).
   * 
-<h1 style="text-align: right;">Mohamed Khaled</h1>
+<h1 style="text-align: center;">Mohamed Khaled</h1>
   <table>
   <tr>
     <th>column 1</th>
