@@ -22,9 +22,7 @@
      * font.ttf : font text 
 > ### How to install and run code
   * After installing all files, we need also to download `SFML` library you can download from [here](https://www.sfml-dev.org/download.php), and for configure visual         studio IDE with SFML librery from [here](https://www.sfml-dev.org/tutorials/2.5/start-vc.php).
- 
-      <form action="site.php" method="post">
-      Apples <input type="checkbox" name="ftuits[]" value="apples"><br>
-      Oranges <input type="checkbox" name="ftuits[]" value="oranges"><br>
-      Pears <input type="checkbox" name="ftuits[]" value="pears"><br>  
-      <input type="submit"><br>    
+             Apples <input type="checkbox" name="ftuits[]" value="apples"><br>
+            Oranges <input type="checkbox" name="ftuits[]" value="oranges"><br>
+            Pears <input type="checkbox" name="ftuits[]" value="pears"><br>  
+            <input type="submit"><br>  
