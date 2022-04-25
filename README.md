@@ -6,5 +6,5 @@
 * How To install and run code
 
 > ## Project Description
-    asasa
-    sasas
+    * asasa
+    * sasas
