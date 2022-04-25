@@ -6,5 +6,5 @@
 * How To install and run code.
 
 > ## Project Description
-* Mohamed
-* Khaled
+Mohamed
+Khaled
