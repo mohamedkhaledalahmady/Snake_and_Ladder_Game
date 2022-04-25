@@ -22,3 +22,19 @@
      * font.ttf : font text 
 > ### How to install and run code
   * After installing all files, we need also to download `SFML` library you can download from [here](https://www.sfml-dev.org/download.php), and for configure visual         studio IDE with SFML librery from [here](https://www.sfml-dev.org/tutorials/2.5/start-vc.php).
+  * <table>
+  <tr>
+    <th>column 1</th>
+    <th>column 2</th>
+    <th>column 3</th>
+  </tr>
+  <tr>
+    <td>row 1 - column 1</td>
+    <td>row 1 - column 2</td>
+    <td rowspan="2" align="center">row 1 & 2 - column 3</td>
+  </tr>
+  <tr>
+    <td>row 2 - column 1</td>
+    <td>row 2 - column 2</td>
+  </tr>
+</table>
