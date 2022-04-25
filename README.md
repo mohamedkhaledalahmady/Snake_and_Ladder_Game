@@ -5,7 +5,7 @@
 * How to install and run code.
 
 > ### Project Description
- * **Snakes and ladders** is a board game for two or more _players_ regarded today as a worldwide classic, and we abel to make implementaion for it, using cpp      language with **_data structure_** concept, and we used `SFML` library to graphic our game and be more user friendly.
+ * **Snakes and ladders** is a board game for two or more _players_ regarded today as a worldwide classic, and we able to make implementaion for it, using cpp      language with **_data structure_** concept, and we used `SFML` library to graphic our game and be more user friendly.
 > ### Source Code
   * In this repo we upload all files we implemented, and can be summarized in following:
      * _Node.h_
