@@ -6,7 +6,4 @@
 * How To install and run code.
 
 > ## Project Description
- * **Snakes and ladders** is a board game for two or more _players_ regarded today as a worldwide classic.
- * 
- * 
-Khaled
+ * **Snakes and ladders** is a board game for two or more _players_ regarded today as a worldwide classic, and we abel to make implementaion for it, using cpp      language with data structure concept. 
