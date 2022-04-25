@@ -1,6 +1,6 @@
 ## *Snake and Ladder Game*
 > ## Contents
-* Project Description.
+* [Project Description].
 * Source Code.
 * How To install and run code.
 
