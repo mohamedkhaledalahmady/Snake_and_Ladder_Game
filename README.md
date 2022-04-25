@@ -1,2 +1,11 @@
-# Snake_and_Ladder_Game
-This project is an application of data structure cource.
+## *Snake and Ladder Game*
+***
+> Contents
+* project description
+* Source Code
+* Images used
+* How To install and run code
+
+> ## Project Description
+    asasa
+    sasas
