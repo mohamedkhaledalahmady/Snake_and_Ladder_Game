@@ -17,7 +17,7 @@
      * game.h
      * game.cpp
      * SFML.cpp
-  * aslo uploaded aother fiels we ueed such as
+  * Also uploaded aother fiels we ueed such as
      * background.png : background image for board of game
      * font.ttf : font text 
 > ### How to install and run code
