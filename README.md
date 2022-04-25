@@ -2,7 +2,7 @@
 > ## Contents
 * Project Description.
 * Source Code.
-* How To install and run code.
+* How to install and run code.
 
 > ### Project Description
  * **Snakes and ladders** is a board game for two or more _players_ regarded today as a worldwide classic, and we abel to make implementaion for it, using cpp      language with **_data structure_** concept, and we used `SFML` library to graphic our game and be more user friendly.
