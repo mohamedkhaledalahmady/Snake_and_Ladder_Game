@@ -1,5 +1,4 @@
 ## *Snake and Ladder Game*
-***
 > Contents
 * project description
 * Source Code
