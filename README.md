@@ -17,7 +17,7 @@
      * _game.h_
      * _game.cpp_
      * _SFML.cpp_ **_(main program)_**
-  * Also we uploaded other files that we uesed
+  * Also we uploaded other files that we used
      * background.jpg : background image for board of game.
      * OpenSans-SemiBoldItalic.ttf : font of text.
 > ### How to install and run code
