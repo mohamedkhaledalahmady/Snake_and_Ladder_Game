@@ -16,7 +16,7 @@
      * _Button.cpp_
      * _game.h_
      * _game.cpp_
-     * _SFML.cpp_ **(main program)**
+     * _SFML.cpp_ **_(main program)_**
   * Also we uploaded other files that we uesed
      * background.png : background image for board of game
      * font.ttf : font text 
