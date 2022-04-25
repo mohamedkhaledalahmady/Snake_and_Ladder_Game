@@ -18,7 +18,7 @@
      * _game.cpp_
      * _SFML.cpp_ **_(main program)_**
   * Also we uploaded other files that we uesed
-     * background.jpg : background image for board of game
-     * font.ttf : font text 
+     * background.jpg : background image for board of game.
+     * OpenSans-SemiBoldItalic.ttf : font of text.
 > ### How to install and run code
   * After installing all files, we need also to download `SFML` library you can download from [here](https://www.sfml-dev.org/download.php), and for configure visual         studio IDE with SFML librery from [here](https://www.sfml-dev.org/tutorials/2.5/start-vc.php).
