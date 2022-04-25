@@ -1,10 +1,10 @@
 ## *Snake and Ladder Game*
-> Contents
-* project description
-* Source Code
-* Images used
-* How To install and run code
+> ## Contents
+* Project Description.
+* Source Code.
+* Images Used.
+* How To install and run code.
 
-> ## Project Description
-    * asasa
-    * sasas
+> ### Project Description
+    asasa
+    sasas
