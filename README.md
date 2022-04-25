@@ -21,5 +21,4 @@
      * background.png : background image for board of game
      * font.ttf : font text 
 > ### How to install and run code
-  * After installing all files, we need also to download `SFML` library you can download from [here](https://www.sfml-dev.org/download.php), and for configure visual studio IDE with SFML librery from [here](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
-  
+  * After installing all files, we need also to download `SFML` library you can download from [here](https://www.sfml-dev.org/download.php), and for configure visual         studio IDE with SFML librery from [here](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
