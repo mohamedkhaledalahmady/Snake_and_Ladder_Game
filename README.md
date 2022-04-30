@@ -56,5 +56,5 @@
    *  [Github tutorials](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 > ### Video
   * <a href="https://drive.google.com/drive/folders/1U_iMkxYNEtBgr9grcJr8qgA1Fual7h5F">
-            Video while game running
+            while game running
    </a>
