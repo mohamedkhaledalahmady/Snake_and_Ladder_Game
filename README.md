@@ -20,7 +20,7 @@
         * [SFML configuration with Visual Studio](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
        
   * Download all project files 
-  * After creation of new project in VS and making all settings on it, add all project file from your project options.
+  * After creation of new project in VS and making all settings on it, add all project files from your project options.
   * change paths of photos and font file to your path, In changing to your paths please use / instead of \\. 
     * In lines 14, 16, 180, 182 (in Game.cpp file)
   
@@ -54,7 +54,7 @@
 > ### Materials:
    *  [SFML tutorials](https://youtube.com/playlist?list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9)
    *  [Github tutorials](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
-> ### Video
+> ### Video:
   * <a href="https://drive.google.com/drive/u/0/folders/1LCWQxfw95VhuoCZ8Oc14U0A1btJlO0LZ">
             while game running
    </a>
